@@ -41,9 +41,8 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 
 ---
 
-📬 Connect with Me
+## 📬 Connect with Me
 
 - 🔗 GitHub: [Ashishjha013](https://github.com/Ashishjha013)
 - 💼 LinkedIn: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
 - 📧 Email: [ashishjha1304@gmail.com](mailto:ashishjha1304@gmail.com)
-
