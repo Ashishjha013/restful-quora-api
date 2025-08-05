@@ -27,7 +27,7 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 
 ```
 
-## 🔄 RESTful Routes Overview
+### 🔄 RESTful Routes Overview
 
 | Method | Route           | Description              |
 |--------|------------------|--------------------------|
