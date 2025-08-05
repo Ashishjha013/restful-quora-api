@@ -16,36 +16,6 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 
 ---
 
-## 📸 Preview
-
-> Here's how it looks (you can add real screenshots here):
-
-- `index.ejs` → Shows all posts
-- `new.ejs` → Form to add a new post
-- `edit.ejs` → Form to update a post
-- `show.ejs` → Individual post view
-
----
-
-## 🏗️ Project Structure
-
-```
-REST_CLONE/
-├── node_modules/
-├── public/
-│   └── style.css
-├── views/
-│   ├── index.ejs
-│   ├── new.ejs
-│   ├── edit.ejs
-│   └── show.ejs
-├── index.js
-├── package.json
-└── README.md
-```
-
----
-
 ## ⚙️ Tech Stack
 
 - [x] Node.js
@@ -55,28 +25,7 @@ REST_CLONE/
 - [x] Method-Override (for PUT/PATCH/DELETE)
 - [x] HTML/CSS
 
----
-
-## 🔧 Installation & Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the folder
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-# Run the app
-node index.js
 ```
-
-Then open your browser and go to:  
-👉 `http://localhost:3000/posts`
-
----
 
 ## 🔄 RESTful Routes Overview
 
@@ -92,42 +41,9 @@ Then open your browser and go to:
 
 ---
 
-## 🧪 Sample In-Memory Posts
-
-```js
-let posts = [
-  {
-    id: uuidv4(),
-    username: "ginny",
-    content: "I Love live with Ashish",
-  },
-  {
-    id: uuidv4(),
-    username: "ashish",
-    content: "I Love Magic...",
-  },
-  {
-    id: uuidv4(),
-    username: "ron",
-    content: "I Love eating...",
-  },
-];
-```
-
----
-
 ## 🙋‍♂️ Author
 
 **Ashish Jha**  
-🧑‍💻 [GitHub](https://github.com/your-username)  
-📧 Email: your-email@example.com _(optional)_
+🧑‍💻 [GitHub](https://github.com/ashishjha013)  
+📧 Email: ashishjha1304@gmail.com
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> 💡 _Want to add database support (MongoDB) or deploy this on Render/Netlify? Let me know and I’ll guide you step-by-step!_
