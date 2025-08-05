@@ -40,6 +40,7 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 | DELETE | /posts/:id       | Delete a post            |
 
 ```
+---
 
 ## 📬 Connect with Me
 
