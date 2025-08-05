@@ -27,19 +27,6 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 
 ```
 
-## 🔄 RESTful Routes Overview
-
-| Method | Route           | Description              |
-|--------|------------------|--------------------------|
-| GET    | /posts           | View all posts           |
-| GET    | /posts/new       | Show form to create post |
-| POST   | /posts           | Create a new post        |
-| GET    | /posts/:id       | View a single post       |
-| GET    | /posts/:id/edit  | Show form to edit post   |
-| PATCH  | /posts/:id       | Update a post            |
-| DELETE | /posts/:id       | Delete a post            |
-
-
 ## 📬 Connect with Me
 
 - 🔗 **GitHub**: [Ashishjha013](https://github.com/Ashishjha013)
