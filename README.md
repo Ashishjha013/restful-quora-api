@@ -40,9 +40,8 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 | DELETE | /posts/:id      | Delete a post            |
 
 ---
----
 
-## 📬 Connect with Me
+📬 Connect with Me
 
 - 🔗 GitHub: [Ashishjha013](https://github.com/Ashishjha013)
 - 💼 LinkedIn: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
