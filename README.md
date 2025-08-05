@@ -30,19 +30,18 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 ## 🔄 RESTful Routes Overview
 
 | Method | Route           | Description              |
-| ------ | --------------- | ------------------------ |
-| GET    | /posts          | View all posts           |
-| GET    | /posts/new      | Show form to create post |
-| POST   | /posts          | Create a new post        |
-| GET    | /posts/:id      | View a single post       |
-| GET    | /posts/:id/edit | Show form to edit post   |
-| PATCH  | /posts/:id      | Update a post            |
-| DELETE | /posts/:id      | Delete a post            |
+|--------|------------------|--------------------------|
+| GET    | /posts           | View all posts           |
+| GET    | /posts/new       | Show form to create post |
+| POST   | /posts           | Create a new post        |
+| GET    | /posts/:id       | View a single post       |
+| GET    | /posts/:id/edit  | Show form to edit post   |
+| PATCH  | /posts/:id       | Update a post            |
+| DELETE | /posts/:id       | Delete a post            |
 
-<br>
 
 ## 📬 Connect with Me
 
-- 🔗 GitHub: [Ashishjha013](https://github.com/Ashishjha013)
-- 💼 LinkedIn: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
-- 📧 Email: [ashishjha1304@gmail.com](mailto:ashishjha1304@gmail.com)
+- 🔗 **GitHub**: [Ashishjha013](https://github.com/Ashishjha013)
+- 💼 **LinkedIn**: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
+- 📧 **Email**: [ashishjha1304@gmail.com](mailto:ashishjha1304@gmail.com)
