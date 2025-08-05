@@ -39,7 +39,7 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 | PATCH  | /posts/:id       | Update a post            |
 | DELETE | /posts/:id       | Delete a post            |
 
----
+&nbsp;
 
 ## 📬 Connect with Me
 
