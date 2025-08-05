@@ -38,8 +38,10 @@ A simple **Quora-style web application** built with Node.js, Express, and EJS wh
 | GET    | /posts/:id/edit  | Show form to edit post   |
 | PATCH  | /posts/:id       | Update a post            |
 | DELETE | /posts/:id       | Delete a post            |
+---
+---
+---
 
-&nbsp;
 
 ## 📬 Connect with Me
 
